@@ -1,0 +1,131 @@
+---
+title: "Bird Banding Resume"
+subtitle: "Jason Winiarski"
+# author: "Jay Winiarski"
+# date: "12/3/2021"
+output: pdf_document
+fontsize: 12 pt
+---
+
+**Jason Winiarski**    
+Research Scientist  
+Office of Applied Science    
+Wisconsin Department of Natural Resources  
+(608) 574-4336
+
+# Banding Experience
+
+\medskip
+
+### Graduate Research Assistant, Boise State University  
+- *Dates & hours worked*: December 2017--August 2021 (40 hrs/week)
+- *Species banded*: American kestrel (*Falco sparverius*)
+- *Number handled*: 50 captured and banded
+- *Trapping techniques*: bal-chatri and hand-grab at nest box
+- *Auxiliary marking*: backpack Argos/GPS transmitter (2 individuals)
+- *Additional authorizations*: blood (3 individuals), claw (24 individuals), and feather (27 individuals) sampling
+- *Banding location(s)*: Ada County, Idaho; Riley County, Kansas; Doña Ana County, New Mexico; Yakima County, Washington
+- *Permit holder*: Master Bander - Dr. Julie Heath (#23307); Sub-permittee - Jason Winiarski (#23307-AB)
+
+### Graduate Research Assistant, North Carolina State University
+- *Dates & hours worked*: April--July, 2014--2015 (40 hrs/week)
+- *Species banded*: Bachman’s sparrow (*Peucaea aestivalis*)
+- *Number handled*: 122 captured and banded
+- *Trapping techniques*: mist-netting
+- *Auxiliary marking*: color bands (114 individuals) and radio-transmitters (39 individuals)
+- *Additional authorizations*: blood sampling (23 individuals)
+- *Banding location(s)*: Bladen, Pender, and Brunswick County, NC
+- *Permit holder*: Master Bander - Dr. Chris Moorman (#23822); Sub-permittee - Jason Winiarski (#23822-C)
+
+\medskip
+
+### Spotted Owl Research Assistant, Oregon State University
+- *Dates & hours worked*: March--August, 2011--2013 (40 hrs/week)
+- *Species banded*: northern spotted owl (*Strix occidentalis caurina*)
+- *Number handled*: ~30 captured and banded
+- *Trapping techniques*: noose-pole and hand capture
+- *Auxiliary marking*: color bands (~30 individuals)
+- *Additional authorizations*: NA
+- *Banding location(s)*: Willamette National Forest, OR
+- *Permit holder*: Master Bander - Dr. Daniel Roby (#05271); Sub-permittee - Jason Winiarski
+
+### Avian Field Assistant, York University
+- *Dates & hours worked*: February - March 2011 (40 hrs/week)
+- *Species banded*: passerines and near passerines with emphasis on wood thrush (*Hylocichla mustelina*)
+- *Number handled*: ~50 extracted and banded
+- *Trapping techniques*: mist-netting
+- *Auxiliary marking*: color bands (~20 individuals) and attached geolocators (~10
+individuals)
+- *Additional authorizations*: feather, blood, and toenail sampling (~30 individuals)
+- *Banding location(s)*: La Selva Biological Station, Costa Rica
+- *Permit holder*: Master Bander - Dr. Bridget Stutchbury
+
+### Project Assistant, Cary Institute of Ecosystem Studies
+- *Dates & hours worked*: August--September 2010 (30--40 hrs/week)
+- *Species banded: passerines and near passerines with emphasis on American robin (*Turdus migratorius*)
+- *Number handled*: ~20 extracted and banded
+- *Trapping techniques*: mist-netting
+- *Auxiliary marking*: NA
+- *Additional authorizations*: American robin held in captivity in an animal husbandry
+facility for up to 3 days (~15 individuals)
+- *Banding location(s)*: Cary Institute of Ecosystem Studies, Millbrook, NY
+- *Permit holder*: Master Bander - Dr. Kenneth Schmidt (#22921); Sub-permittee –
+Jason Winiarski (#22921-L)
+
+### Avian Research Assistant, Texas Tech University
+- *Dates & hours worked*: May--July 2010 (40 hrs/week)
+- *Species banded*: passerines and near passerines with emphasis on veery (*Catharus
+fuscescens*)
+- *Number handled*: ~100 extracted and banded
+- *Trapping techniques*: mist-netting and hand capture
+- *Auxiliary marking*: color bands (~50 individuals) and attached transmitters (~10
+individuals)
+- *Additional authorizations*: blood sampling (50 individuals)
+- *Banding location(s)*: Cary Institute of Ecosystem Studies, Millbrook, NY
+- *Permit holder*: Master Bander - Dr. Kenneth Schmidt (#22921); Sub-permittee –
+Jason Winiarski (#22921-L)
+
+### Avian Field Intern, Smithsonian Migratory Bird Center
+- *Dates & hours worked*: January--May 2010 (40 hrs/week)
+- *Species banded*: passerines and near passerines with emphasis on American redstart (*Setophaga ruticilla*)
+- *Number handled*: ~50 extracted and banded
+- *Trapping techniques*: mist-netting
+- *Auxiliary marking*: color bands (~50 individuals)
+- *Additional authorizations*: feather, blood, and toenail sampling (~50 individuals)
+- *Banding location(s)*: Font Hill Nature Preserve, Jamaica
+- *Permit holder*: Master Bander - Dr. Peter Marra
+
+### Project Assistant, Cary Institute of Ecosystem Studies
+- *Dates & hours worked*: August--September 2009 (30--40 hrs/week)
+- *Species banded*: passerines and near passerines with emphasis on America robin, wood thrush, veery, and gray catbird (*Dumetella carolinensis*)
+- *Number handled*: ~50 extracted and banded
+- *Trapping techniques*: mist-netting
+- *Auxiliary marking*: NA
+- *Additional authorizations*: focal species held in captivity in an animal husbandry facility for up to 3 days (~40 individuals)
+- *Banding location(s)*: Cary Institute of Ecosystem Studies, Millbrook, NY
+- *Permit holder*: Master Bander - Dr. Kenneth Schmidt (#22921); Sub-permittee – Jason Winiarski (#22921-L)
+
+### Avian Research Assistant, Texas Tech University
+- *Dates & hours worked*: May--July 2009 (40 hrs/week)
+- *Species banded: passerines and near passerines with emphasis on veery and ovenbird (*Seiurus aurocapilla*)
+- *Number handled*: ~100 extracted and banded
+- *Trapping techniques*: mist-netting and hand capture
+- *Auxiliary marking*: color bands (~50 individuals)
+- *Additional authorizations*: blood sampling (~50 individuals)
+- *Banding location(s)*: Cary Institute of Ecosystem Studies, Millbrook, NY
+- *Permit holder*: Master Bander - Dr. Kenneth Schmidt (#22921); Sub-permittee –
+Jason Winiarski (#22921-L)
+
+### Avian Field Technician, University of Rhode Island
+- *Dates & hours worked*: September--November 2008 (40 hrs/week)
+- *Species banded*: passerines and near passerines, blackbirds, woodpeckers, flycatchers, sparrows, and owls
+- *Number handled*: ~300 extracted and banded
+- *Trapping techniques*: mist-netting
+- *Auxiliary marking*: NA
+- *Additional authorizations*: blood sampling (~30 individuals)
+- *Banding location(s)*: Block Island, RI
+- *Permit holder*: Master Bander - Dr. Scott McWilliams
+
+<!-- \medskip -->
+
+<!-- Since 2008, I have received hands-on-training to capture and band passerines and near passerines, blackbirds, woodpeckers, flycatchers, sparrows, and owls while adhering to strict capture and handling protocols. I have also been trained in a variety of additional authorizations including color marking, blood, feather and claw sampling, and attaching geolocators and radio transmitters. Personnel I have trained with include Dr. Julie Heath (Boise State University), Dr. Steve Ackers (Oregon State University), Dr. Kenneth Schmidt (Texas Tech University), and Jessica Bolser and Adam Smith (University of Rhode Island). -->
