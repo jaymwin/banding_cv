@@ -25,7 +25,7 @@ Wisconsin Department of Natural Resources
 - *Auxiliary marking*: backpack Argos/GPS transmitter (2 individuals)
 - *Additional authorizations*: blood (3 individuals), claw (24 individuals), and feather (27 individuals) sampling
 - *Banding location(s)*: Ada County, Idaho; Riley County, Kansas; Doña Ana County, New Mexico; Yakima County, Washington
-- *Permit holder*: Master Bander - Dr. Julie Heath (#23307); Sub-permittee - Jason Winiarski (#23307-AB)
+- *Permit holder*: Master bander - Dr. Julie Heath (#23307); Sub-permittee - Jason Winiarski (#23307-AB)
 
 ### Graduate Research Assistant, North Carolina State University
 - *Dates & hours worked*: April--July, 2014--2015 (40 hrs/week)
@@ -35,7 +35,7 @@ Wisconsin Department of Natural Resources
 - *Auxiliary marking*: color bands (114 individuals) and radio-transmitters (39 individuals)
 - *Additional authorizations*: blood sampling (23 individuals)
 - *Banding location(s)*: Bladen, Pender, and Brunswick County, NC
-- *Permit holder*: Master Bander - Dr. Chris Moorman (#23822); Sub-permittee - Jason Winiarski (#23822-C)
+- *Permit holder*: Master bander - Dr. Chris Moorman (#23822); Sub-permittee - Jason Winiarski (#23822-C)
 
 \medskip
 
@@ -47,10 +47,10 @@ Wisconsin Department of Natural Resources
 - *Auxiliary marking*: color bands (~30 individuals)
 - *Additional authorizations*: NA
 - *Banding location(s)*: Willamette National Forest, OR
-- *Permit holder*: Master Bander - Dr. Daniel Roby (#05271); Sub-permittee - Jason Winiarski
+- *Permit holder*: Master bander - Dr. Daniel Roby (#05271); Sub-permittee - Jason Winiarski
 
 ### Avian Field Assistant, York University
-- *Dates & hours worked*: February - March 2011 (40 hrs/week)
+- *Dates & hours worked*: February--March 2011 (40 hrs/week)
 - *Species banded*: passerines and near passerines with emphasis on wood thrush (*Hylocichla mustelina*)
 - *Number handled*: ~50 extracted and banded
 - *Trapping techniques*: mist-netting
@@ -58,31 +58,30 @@ Wisconsin Department of Natural Resources
 individuals)
 - *Additional authorizations*: feather, blood, and toenail sampling (~30 individuals)
 - *Banding location(s)*: La Selva Biological Station, Costa Rica
-- *Permit holder*: Master Bander - Dr. Bridget Stutchbury
+- *Permit holder*: Master bander - Dr. Bridget Stutchbury
 
 ### Project Assistant, Cary Institute of Ecosystem Studies
 - *Dates & hours worked*: August--September 2010 (30--40 hrs/week)
-- *Species banded: passerines and near passerines with emphasis on American robin (*Turdus migratorius*)
+- *Species banded*: passerines and near passerines with emphasis on American robin (*Turdus migratorius*)
 - *Number handled*: ~20 extracted and banded
 - *Trapping techniques*: mist-netting
 - *Auxiliary marking*: NA
 - *Additional authorizations*: American robin held in captivity in an animal husbandry
 facility for up to 3 days (~15 individuals)
 - *Banding location(s)*: Cary Institute of Ecosystem Studies, Millbrook, NY
-- *Permit holder*: Master Bander - Dr. Kenneth Schmidt (#22921); Sub-permittee –
+- *Permit holder*: Master bander - Dr. Kenneth Schmidt (#22921); Sub-permittee –
 Jason Winiarski (#22921-L)
 
 ### Avian Research Assistant, Texas Tech University
 - *Dates & hours worked*: May--July 2010 (40 hrs/week)
-- *Species banded*: passerines and near passerines with emphasis on veery (*Catharus
-fuscescens*)
+- *Species banded*: passerines and near passerines with emphasis on veery (*Catharus fuscescens*)
 - *Number handled*: ~100 extracted and banded
 - *Trapping techniques*: mist-netting and hand capture
 - *Auxiliary marking*: color bands (~50 individuals) and attached transmitters (~10
 individuals)
 - *Additional authorizations*: blood sampling (50 individuals)
 - *Banding location(s)*: Cary Institute of Ecosystem Studies, Millbrook, NY
-- *Permit holder*: Master Bander - Dr. Kenneth Schmidt (#22921); Sub-permittee –
+- *Permit holder*: Master bander - Dr. Kenneth Schmidt (#22921); Sub-permittee –
 Jason Winiarski (#22921-L)
 
 ### Avian Field Intern, Smithsonian Migratory Bird Center
@@ -93,7 +92,7 @@ Jason Winiarski (#22921-L)
 - *Auxiliary marking*: color bands (~50 individuals)
 - *Additional authorizations*: feather, blood, and toenail sampling (~50 individuals)
 - *Banding location(s)*: Font Hill Nature Preserve, Jamaica
-- *Permit holder*: Master Bander - Dr. Peter Marra
+- *Permit holder*: Master bander - Dr. Peter Marra
 
 ### Project Assistant, Cary Institute of Ecosystem Studies
 - *Dates & hours worked*: August--September 2009 (30--40 hrs/week)
@@ -103,17 +102,17 @@ Jason Winiarski (#22921-L)
 - *Auxiliary marking*: NA
 - *Additional authorizations*: focal species held in captivity in an animal husbandry facility for up to 3 days (~40 individuals)
 - *Banding location(s)*: Cary Institute of Ecosystem Studies, Millbrook, NY
-- *Permit holder*: Master Bander - Dr. Kenneth Schmidt (#22921); Sub-permittee – Jason Winiarski (#22921-L)
+- *Permit holder*: Master bander - Dr. Kenneth Schmidt (#22921); Sub-permittee – Jason Winiarski (#22921-L)
 
 ### Avian Research Assistant, Texas Tech University
 - *Dates & hours worked*: May--July 2009 (40 hrs/week)
-- *Species banded: passerines and near passerines with emphasis on veery and ovenbird (*Seiurus aurocapilla*)
+- *Species banded*: passerines and near passerines with emphasis on veery and ovenbird (*Seiurus aurocapilla*)
 - *Number handled*: ~100 extracted and banded
 - *Trapping techniques*: mist-netting and hand capture
 - *Auxiliary marking*: color bands (~50 individuals)
 - *Additional authorizations*: blood sampling (~50 individuals)
 - *Banding location(s)*: Cary Institute of Ecosystem Studies, Millbrook, NY
-- *Permit holder*: Master Bander - Dr. Kenneth Schmidt (#22921); Sub-permittee –
+- *Permit holder*: Master bander - Dr. Kenneth Schmidt (#22921); Sub-permittee –
 Jason Winiarski (#22921-L)
 
 ### Avian Field Technician, University of Rhode Island
@@ -124,7 +123,7 @@ Jason Winiarski (#22921-L)
 - *Auxiliary marking*: NA
 - *Additional authorizations*: blood sampling (~30 individuals)
 - *Banding location(s)*: Block Island, RI
-- *Permit holder*: Master Bander - Dr. Scott McWilliams
+- *Permit holder*: Master bander - Dr. Scott McWilliams
 
 <!-- \medskip -->
 
