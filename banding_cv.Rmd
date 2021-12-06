@@ -20,11 +20,11 @@ Wisconsin Department of Natural Resources
 ### Graduate Research Assistant, Boise State University  
 - *Dates & hours worked*: December 2017--August 2021 (40 hrs/week)
 - *Species banded*: American kestrel (*Falco sparverius*)
-- *Number handled*: 50 captured and banded
+- *Number handled*: 48 captured and banded
 - *Trapping techniques*: bal-chatri and hand-grab at nest box
 - *Auxiliary marking*: backpack Argos/GPS transmitter (2 individuals)
-- *Additional authorizations*: blood (3 individuals), claw (24 individuals), and feather (27 individuals) sampling
-- *Banding location(s)*: Ada County, Idaho; Riley County, Kansas; Doña Ana County, New Mexico; Yakima County, Washington
+- *Additional authorizations*: blood (3 individuals), claw (22 individuals), and feather (27 individuals) sampling
+- *Banding location(s)*: Ada County, Idaho; Riley County, Kansas; Doña Ana County, New Mexico; Yakima County, Washington, Miami-Dade, Monroe, and Okaloosa County, Florida; Imperial County, California
 - *Permit holder*: Master bander - Dr. Julie Heath (#23307); Sub-permittee - Jason Winiarski (#23307-AB)
 
 ### Graduate Research Assistant, North Carolina State University
@@ -32,9 +32,9 @@ Wisconsin Department of Natural Resources
 - *Species banded*: Bachman’s sparrow (*Peucaea aestivalis*)
 - *Number handled*: 122 captured and banded
 - *Trapping techniques*: mist-netting
-- *Auxiliary marking*: color bands (114 individuals) and radio-transmitters (39 individuals)
+- *Auxiliary marking*: color bands (114 individuals) and leg-loop radio-transmitters (39 individuals)
 - *Additional authorizations*: blood sampling (23 individuals)
-- *Banding location(s)*: Bladen, Pender, and Brunswick County, NC
+- *Banding location(s)*: Bladen, Pender, and Brunswick County, North Carolina
 - *Permit holder*: Master bander - Dr. Chris Moorman (#23822); Sub-permittee - Jason Winiarski (#23822-C)
 
 \medskip
@@ -46,7 +46,7 @@ Wisconsin Department of Natural Resources
 - *Trapping techniques*: noose-pole and hand capture
 - *Auxiliary marking*: color bands (~30 individuals)
 - *Additional authorizations*: NA
-- *Banding location(s)*: Willamette National Forest, OR
+- *Banding location(s)*: Willamette National Forest, Oregon
 - *Permit holder*: Master bander - Dr. Daniel Roby (#05271); Sub-permittee - Jason Winiarski
 
 ### Avian Field Assistant, York University
@@ -54,7 +54,7 @@ Wisconsin Department of Natural Resources
 - *Species banded*: passerines and near passerines with emphasis on wood thrush (*Hylocichla mustelina*)
 - *Number handled*: ~50 extracted and banded
 - *Trapping techniques*: mist-netting
-- *Auxiliary marking*: color bands (~20 individuals) and attached geolocators (~10
+- *Auxiliary marking*: color bands (~20 individuals) and attached leg-loop geolocators (~10
 individuals)
 - *Additional authorizations*: feather, blood, and toenail sampling (~30 individuals)
 - *Banding location(s)*: La Selva Biological Station, Costa Rica
@@ -68,7 +68,7 @@ individuals)
 - *Auxiliary marking*: NA
 - *Additional authorizations*: American robin held in captivity in an animal husbandry
 facility for up to 3 days (~15 individuals)
-- *Banding location(s)*: Cary Institute of Ecosystem Studies, Millbrook, NY
+- *Banding location(s)*: Cary Institute of Ecosystem Studies, Millbrook, New York
 - *Permit holder*: Master bander - Dr. Kenneth Schmidt (#22921); Sub-permittee –
 Jason Winiarski (#22921-L)
 
@@ -77,10 +77,10 @@ Jason Winiarski (#22921-L)
 - *Species banded*: passerines and near passerines with emphasis on veery (*Catharus fuscescens*)
 - *Number handled*: ~100 extracted and banded
 - *Trapping techniques*: mist-netting and hand capture
-- *Auxiliary marking*: color bands (~50 individuals) and attached transmitters (~10
+- *Auxiliary marking*: color bands (~50 individuals) and attached leg-loop transmitters (~10
 individuals)
 - *Additional authorizations*: blood sampling (50 individuals)
-- *Banding location(s)*: Cary Institute of Ecosystem Studies, Millbrook, NY
+- *Banding location(s)*: Cary Institute of Ecosystem Studies, Millbrook, New York
 - *Permit holder*: Master bander - Dr. Kenneth Schmidt (#22921); Sub-permittee –
 Jason Winiarski (#22921-L)
 
@@ -101,7 +101,7 @@ Jason Winiarski (#22921-L)
 - *Trapping techniques*: mist-netting
 - *Auxiliary marking*: NA
 - *Additional authorizations*: focal species held in captivity in an animal husbandry facility for up to 3 days (~40 individuals)
-- *Banding location(s)*: Cary Institute of Ecosystem Studies, Millbrook, NY
+- *Banding location(s)*: Cary Institute of Ecosystem Studies, Millbrook, New York
 - *Permit holder*: Master bander - Dr. Kenneth Schmidt (#22921); Sub-permittee – Jason Winiarski (#22921-L)
 
 ### Avian Research Assistant, Texas Tech University
@@ -111,7 +111,7 @@ Jason Winiarski (#22921-L)
 - *Trapping techniques*: mist-netting and hand capture
 - *Auxiliary marking*: color bands (~50 individuals)
 - *Additional authorizations*: blood sampling (~50 individuals)
-- *Banding location(s)*: Cary Institute of Ecosystem Studies, Millbrook, NY
+- *Banding location(s)*: Cary Institute of Ecosystem Studies, Millbrook, New York
 - *Permit holder*: Master bander - Dr. Kenneth Schmidt (#22921); Sub-permittee –
 Jason Winiarski (#22921-L)
 
@@ -122,7 +122,7 @@ Jason Winiarski (#22921-L)
 - *Trapping techniques*: mist-netting
 - *Auxiliary marking*: NA
 - *Additional authorizations*: blood sampling (~30 individuals)
-- *Banding location(s)*: Block Island, RI
+- *Banding location(s)*: Block Island, Rhode Island
 - *Permit holder*: Master bander - Dr. Scott McWilliams
 
 <!-- \medskip -->
