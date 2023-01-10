@@ -1,21 +1,32 @@
 ---
 title: "Bird Banding Resume"
-subtitle: "Jason Winiarski"
+subtitle: "Jason M. Winiarski"
 # author: "Jay Winiarski"
 # date: "12/3/2021"
 output: pdf_document
 fontsize: 12 pt
 ---
 
-**Jason Winiarski**    
-Research Scientist  
+**Jason M. Winiarski**    
+Natural Resources Research Scientist  
 Office of Applied Science    
-Wisconsin Department of Natural Resources  
-(608) 574-4336
+Wisconsin Department of Natural Resources   
+jason.winiarski@wisconsin.gov  
+(608) 574-4336  
 
 # Banding Experience
 
 \medskip
+
+### Natural Resources Research Scientist, Wisconsin Department of Natural Resources
+- *Dates & hours worked*: March 2022--August 2022 (40 hrs/week)
+- *Species banded*: Mallard (*Anas platyrhynchos*)
+- *Number handled*: 49 captured and banded
+- *Trapping techniques*: night-lighting, hand-grab at nest, cannon-net, hand net
+- *Auxiliary marking*: backpack GPS transmitter (48 individuals)
+- *Additional authorizations*: blood (48 individuals) and feather (48 individuals) sampling
+- *Banding location(s)*: Brown, Dane, La Crosse, Manitowoc, Marathon, Marquette, Outagamie, Shawano, Sheboygan, Vilas, and Winnebago County, Wisconsin
+- *Permit holder*: Master banders - Brian Dhuey, Wisconsin Department of Natural Resources (#05322) and Donald Avers, Michigan Department of Natural Resources (#03110); Sub-permittee - Jason Winiarski (#05322-IQ and #03110-GP)
 
 ### Graduate Research Assistant, Boise State University  
 - *Dates & hours worked*: December 2017--August 2021 (40 hrs/week)
@@ -36,8 +47,6 @@ Wisconsin Department of Natural Resources
 - *Additional authorizations*: blood sampling (23 individuals)
 - *Banding location(s)*: Bladen, Pender, and Brunswick County, North Carolina
 - *Permit holder*: Master bander - Dr. Chris Moorman (#23822); Sub-permittee - Jason Winiarski (#23822-C)
-
-\medskip
 
 ### Spotted Owl Research Assistant, Oregon State University
 - *Dates & hours worked*: March--August, 2011--2013 (40 hrs/week)

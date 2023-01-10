@@ -22,8 +22,25 @@ serdp_banding <- serdp_banding %>%
   filter(bander == 'Jason Winiarski')
 serdp_banding
 
+dnr_banding <- read_csv(here::here('2022_mallard_banding_data.csv')) %>%
+  rename(longitude = site_long, latitude = site_lat) %>%
+  mutate(band_num = str_c(band_prefix, band_suffix)) %>%
+  select(band_num, banding_site, transmitter_id, banders, latitude, longitude, blood_sample_id, feather_sample_id) %>%
+  filter(str_detect(banders, 'Winiarski'))
+dnr_banding
+
+dnr_banding %>%
+  filter(!is.na(blood_sample_id))
+
+dnr_banding %>%
+  filter(!is.na(feather_sample_id))
+
+dnr_banding %>%
+  filter(!is.na(transmitter_id))
+
 all_banding <- serdp_banding %>%
   bind_rows(., bio_samples) %>%
+  bind_rows(., dnr_banding %>% select(latitude, longitude, band_num, bander = banders)) %>%
   distinct()
 all_banding
 
@@ -43,6 +60,8 @@ ca_counties <- list_counties(c('CA')) %>% mutate(state = 'CA')
 nm_counties <- list_counties(c('NM')) %>% mutate(state = 'NM')
 id_counties <- list_counties(c('ID')) %>% mutate(state = 'ID')
 fl_counties <- list_counties(c('FL')) %>% mutate(state = 'FL')
+wi_counties <- list_counties(c('WI')) %>% mutate(state = 'WI')
+
 
 county_names <- wa_counties %>%
   bind_rows(., ks_counties) %>%
@@ -50,6 +69,7 @@ county_names <- wa_counties %>%
   bind_rows(., nm_counties) %>%
   bind_rows(., id_counties) %>%
   bind_rows(., fl_counties) %>%
+  bind_rows(., wi_counties) %>%
   distinct() %>%
   as_tibble()
 county_names
@@ -60,6 +80,8 @@ CA <- tracts(state = c('CA')) %>% st_as_sf() %>% select(COUNTYFP) %>% group_by(C
 NM <- tracts(state = c('NM')) %>% st_as_sf() %>% select(COUNTYFP) %>% group_by(COUNTYFP) %>% summarise() %>% mutate(state = 'NM') 
 ID <- tracts(state = c('ID')) %>% st_as_sf() %>% select(COUNTYFP) %>% group_by(COUNTYFP) %>% summarise() %>% mutate(state = 'ID') 
 FL <- tracts(state = c('FL')) %>% st_as_sf() %>% select(COUNTYFP) %>% group_by(COUNTYFP) %>% summarise() %>% mutate(state = 'FL') 
+WI <- tracts(state = c('WI')) %>% st_as_sf() %>% select(COUNTYFP) %>% group_by(COUNTYFP) %>% summarise() %>% mutate(state = 'WI')
+
 
 tracts <- WA %>%
   bind_rows(., KS) %>%
@@ -67,6 +89,7 @@ tracts <- WA %>%
   bind_rows(., NM) %>%
   bind_rows(., ID) %>%
   bind_rows(., FL) %>%
+  bind_rows(., WI) %>%
   select(state, county_code = COUNTYFP) %>%
   left_join(., county_names)
 tracts
@@ -83,3 +106,10 @@ bird_in_county <- st_join(all_banding_sf, tracts, join = st_within)
 bird_in_county
 
 mapview::mapview(bird_in_county, zcol = 'county')
+
+bird_in_county %>%
+  filter(state == 'WI') %>%
+  st_drop_geometry() %>%
+  distinct(county) %>%
+  arrange(county) %>%
+  pull(county)
